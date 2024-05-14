@@ -1,3 +1,4 @@
+package tiposdevariaveis;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         // utilizar "." para separar as casas decimais - convenção americana
