@@ -1,5 +1,5 @@
-package tiposdevariaveis.exerciosbasicos;
-
+package exerciosbasicos;
+// exercicio01 - Crie um programa que imprima "Olá, Mundo!" na tela.
 public class OlaMundo {
 
     // criando o método 
