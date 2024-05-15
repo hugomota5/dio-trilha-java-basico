@@ -1,6 +1,6 @@
 package operadores;
 
-public class Realacionais {
+public class Relacional {
     public static void main(String[] args) {
         String nomeUm = "Hugo";
         String nomeDois = new String("Hugo");
