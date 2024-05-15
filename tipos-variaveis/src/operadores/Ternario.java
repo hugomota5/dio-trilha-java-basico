@@ -9,7 +9,7 @@ public class Ternario {
         b = 6;
 
         // uso do operador ternario - objetivando abreviação da estrutura if/else
-        String resultado = a==b ? "verdadeiro" : "falso";
+        int resultado = a==b ? 1 : 0 ;
     
         //  Exemplo de condicional utilizando uma estrutura if/else
         // if(a==b)
