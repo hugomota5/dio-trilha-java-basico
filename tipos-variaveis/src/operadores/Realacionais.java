@@ -2,6 +2,12 @@ package operadores;
 
 public class Realacionais {
     public static void main(String[] args) {
+        String nomeUm = "Hugo";
+        String nomeDois = new String("Hugo");
+
+        // System.out.println(nomeUm==nomeDois);
+        System.out.println(nomeUm.equals(nomeDois));
+
         // duas variáveis do tipo int
 
         int numero1 = 1;
